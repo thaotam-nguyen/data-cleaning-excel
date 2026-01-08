@@ -94,7 +94,7 @@ The issue log was reviewed to ensure:
 - Resolution decisions were consistently applied
 
 *(Issue Log screenshot attached below)*
-
+![Data Quality Issue Log](assets/issue_log_data_cleaning_project.png)
 ---
 
 ## Output
